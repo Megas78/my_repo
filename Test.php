@@ -12,5 +12,8 @@
  * @author Megas
  */
 class Test {
-    //put your code here
+    public static function run()
+    {
+        echo 'Run';
+    }
 }
